@@ -1,0 +1,15 @@
+{
+  "name": "simple-ut",
+  "version": "1.0.0",
+  "description": "unit testing sederhana dengan aplikasi kalkulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Afif Hendrawan",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
